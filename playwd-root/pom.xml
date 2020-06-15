@@ -34,7 +34,7 @@
 	<httpclient.version>4.5.2</httpclient.version>
 	<shiro.version>1.2.3</shiro.version>
 	<sitemesh.version>2.4.2</sitemesh.version>
-	<validator.version>5.2.4.Final</validator.version>
+	<validator.version>6.1.5.Final</validator.version>
   </properties>
   
   <dependencies>
