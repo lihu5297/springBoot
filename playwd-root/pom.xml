@@ -17,7 +17,7 @@
    
   <properties>
 	<!-- 主要依赖库的版本定义 -->
-	<jdbc.driver.mysql.version>5.1.29</jdbc.driver.mysql.version>
+	<jdbc.driver.mysql.version>8.0.16</jdbc.driver.mysql.version>
 	<junit.version>4.7</junit.version>
 	<servlet.api.version>2.5</servlet.api.version>
 	<jsp.api.version>2.1</jsp.api.version>
