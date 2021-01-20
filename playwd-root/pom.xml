@@ -29,7 +29,7 @@
 	<slf4j.version>1.7.2</slf4j.version>
 	<commons-lang3.version>3.1</commons-lang3.version>
 	<commons-io.version>2.4</commons-io.version>
-	<jackson.version>2.7.3</jackson.version>
+	<jackson.version>2.12.1</jackson.version>
 	<poi.version>3.10.1</poi.version>
 	<httpclient.version>4.5.2</httpclient.version>
 	<shiro.version>1.2.3</shiro.version>
